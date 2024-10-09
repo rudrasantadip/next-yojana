@@ -1,0 +1,17 @@
+main{
+    overflow-y: scroll;
+    height: 88vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+footer{
+    
+}
+
+.content-router{
+    height: 900px;
+}
+/*responsive*/
